@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:123, BigBuckBunny - BigBuckBunny
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-#EXTINF:321,ElephantsDream - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:0 tvg-name="Apple" tvg-language="English" tvg-country="US" tvg-id="Magic Oldies Florida" tvg-logo="https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-0/s526x395/10313521_788324434568662_7329785171531574860_n.jpg?oh=84a76c464b795a04bd59b86a3514c6a1&oe=565D86AC&__gda__=1453557404_a153306cbeece62b43ff881c30fe083a" group-title="Radio",Magic Oldies Florida (Radio) (US) (English)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
